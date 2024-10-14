@@ -10,5 +10,4 @@ Command Execution: Interprets commands for movement, including forward, backward
 Movement Retracing: Records executed commands and allows the SwiftBot to retrace its movements based on user input.
 Command Logging: Maintains a log of all executed commands, which can be saved to a text file for review.
 
-Usage
-To start the program, press the 'Y' button on the SwiftBot. The system will then await commands either through QR codes or ultrasound detection. The 'X' button can be pressed to terminate the program at any time.
+
